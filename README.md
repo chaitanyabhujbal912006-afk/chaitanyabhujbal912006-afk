@@ -6,20 +6,25 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaitanyabhujbal912006-afk&color=00F7FF&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-I'm a Computer Engineering student focused on building **scalable systems and real-world solutions**. My current interests sit at the intersection of **backend development, cloud infrastructure, and system design**, with a strong foundation in data structures and problem-solving. I'm actively working on **healthcare tech projects**, combining clean UI/UX with solid backend architecture.
+I'm a Computer Engineering student who enjoys turning ideas into working systems. My interests sit at the intersection of **backend development, cloud infrastructure, and system design**, backed by a solid grip on data structures and algorithms. Right now, I'm channeling that into **healthcare tech projects** — pairing clean UI/UX with backend architecture that actually holds up.
 
-- 🎓 Computer Engineering Student
-- ☁️ Learning Cloud, Backend & System Design
+- 🎓 Computer Engineering student
+- ☁️ Exploring cloud, backend, and system design
 - 🏥 Building healthcare tech projects
-- 🧠 Sharpening DSA & problem-solving skills daily
+- 🧠 Sharpening DSA and problem-solving, one problem at a time
+- 💬 Always up for a chat about tech, systems, or your next big idea
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -43,7 +48,7 @@ I'm a Computer Engineering student focused on building **scalable systems and re
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhujbal912006-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -56,7 +61,7 @@ I'm a Computer Engineering student focused on building **scalable systems and re
 
 ---
 
-### Connect With Me
+### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-bhujbal-aba168332)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chaitanya9aa/)
