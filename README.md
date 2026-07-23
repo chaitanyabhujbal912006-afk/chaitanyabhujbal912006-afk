@@ -1,11 +1,16 @@
-# Hi, I'm Chaitanya Bhujbal 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A66C2,00599C,00F7FF&height=220&section=header&text=Chaitanya%20Bhujbal&fontSize=48&animation=twinkling&theme=tokyonight" alt="Header Banner" />
+</p>
 
-> **Computer Engineering Student & Full-Stack Engineer**  
-> *Backend Architecture | Distributed Systems | Cloud Infrastructure*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Backend+Architect+%26+Full-Stack+Developer;Cloud+Infrastructure+%26+System+Design;Building+Scalable+Healthcare+Tech" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-bhujbal-aba168332/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyabhujbal809@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitanyabhujbal912006-afk)
+<p align="center">
+  <a href="https://linkedin.com/in/chaitanya-bhujbal-aba168332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:chaitanyabhujbal809@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/chaitanyabhujbal912006-afk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
@@ -54,13 +59,17 @@ I specialize in engineering resilient backend systems, scalable cloud infrastruc
 * **Stack:** `TypeScript` • `Node.js` • `React`
 * **Repository:** [GitHub Link](https://github.com/chaitanyabhujbal912006-afk/ShardSim)
 
-*Add your healthcare tech or secondary project repos here!*
-
 ---
 
 ### 📊 GitHub Activity
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhujbal912006-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhujbal912006-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A66C2,00599C,00F7FF&height=120&section=footer" alt="Footer Banner" />
 </p>
