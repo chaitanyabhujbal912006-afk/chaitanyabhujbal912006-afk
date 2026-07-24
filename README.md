@@ -51,15 +51,6 @@ I specialize in engineering resilient backend systems, scalable cloud infrastruc
 
 ---
 
-### ⚡ Featured Systems & Projects
-
-#### 🔷 **ShardSim** — *Distributed Key-Value Store Visualizer*
-> A visual simulator demonstrating consistent hashing, data partitioning algorithms, and dynamic node scaling across distributed networks.
-* **Key Focus:** System Design, Data Partitioning, Interactive Visualization
-* **Stack:** `TypeScript` • `Node.js` • `React`
-* **Repository:** [GitHub Link](https://github.com/chaitanyabhujbal912006-afk/ShardSim)
-
----
 
 ### 📊 GitHub Activity
 
