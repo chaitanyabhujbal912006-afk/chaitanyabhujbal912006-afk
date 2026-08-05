@@ -69,7 +69,7 @@ Currently Learning:
 | 🏥 **MediParse AI** | AI-powered Healthcare EDI Parser |
 | 🛡 **ReachGuard** | Smart Safety & Security Platform |
 | 🌐 **Navonmesh 2026** | Official Technical Fest Website |
-| ☁ **OmniRoute** | AI API Gateway |
+
 
 ---
 
