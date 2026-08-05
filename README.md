@@ -73,39 +73,11 @@ Currently Learning:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyabhujbal912006-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=chaitanyabhujbal912006-afk&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyabhujbal912006-afk&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chaitanyabhujbal912006-afk&theme=tokyonight&row=2&column=4&no-frame=true"/>
 
 </p>
 
