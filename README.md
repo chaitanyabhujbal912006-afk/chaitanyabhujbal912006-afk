@@ -66,10 +66,10 @@ Currently Learning:
 
 | Project | Description |
 |----------|-------------|
-| 🏥 **MediParse AI** | AI-powered Healthcare EDI Parser |
+| 🏥 **SnapstudioAI** | AI-powered Image editing platform |
 | 🛡 **ReachGuard** | Smart Safety & Security Platform |
 | 🌐 **Navonmesh 2026** | Official Technical Fest Website |
-
+| 🌐 **NiveshLoop** | Stockmarket learning platform with simulation |
 
 ---
 
