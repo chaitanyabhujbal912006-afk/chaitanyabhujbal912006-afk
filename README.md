@@ -1,4 +1,3 @@
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Chaitanya%20Bhujbal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20•%20Cloud%20Engineer%20•%20System%20Designer&descAlignY=58"/>
 </p>
 
@@ -69,23 +68,84 @@ Currently Learning:
   - AWS
   - Microservices
   - System Design
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nextjs,nodejs,express,graphql,tailwind,aws,docker,kubernetes,postgres,mongodb,redis,git,github,vscode,figma&perline=7"/> </p>
-🚀 Featured Projects
-Project	Description
-🏥 SnapstudioAI	AI-powered Image editing platform
-🛡 ReachGuard	Smart Safety & Security Platform
-🌐 Navonmesh 2026	Official Technical Fest Website
-🌐 NiveshLoop	Stockmarket learning platform with simulation
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&theme=tokyo-night&hide_border=true"/> </p>
-📌 Current Goals
-🚀 Master Backend Development
-☁ Become AWS Certified
-⚙ Learn Advanced System Design
-🤖 Build AI-Powered Products
-🌍 Contribute to Open Source
-📚 Currently Exploring
-<p align="center"> <img src="https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,prometheus,grafana"/> </p>
-📫 Connect With Me
-<p align="center"> <a href="https://chaitanya-bhujbal-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-00E7FF?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="mailto:chaitanyabhujbal809@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/chaitanya-bhujbal-aba168332/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/chaitanyabhujbal912006-afk"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nextjs,nodejs,express,graphql,tailwind,aws,docker,kubernetes,postgres,mongodb,redis,git,github,vscode,figma&perline=7"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏥 **SnapstudioAI** | AI-powered Image editing platform |
+| 🛡 **ReachGuard** | Smart Safety & Security Platform |
+| 🌐 **Navonmesh 2026** | Official Technical Fest Website |
+| 🌐 **NiveshLoop** | Stockmarket learning platform with simulation |
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Current Goals
+
+- 🚀 Master Backend Development
+- ☁ Become AWS Certified
+- ⚙ Learn Advanced System Design
+- 🤖 Build AI-Powered Products
+- 🌍 Contribute to Open Source
+
+---
+
+# 📚 Currently Exploring
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,aws,linux,terraform,prometheus,grafana"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="(https://chaitanya-bhujbal-portfolio.vercel.app/)">
+  
+<a href="mailto:chaitanyabhujbal809@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chaitanya-bhujbal-aba168332/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chaitanyabhujbal912006-afk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,20,24&section=footer"/>
+
+</p>
