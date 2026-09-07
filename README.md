@@ -97,7 +97,7 @@ Currently Learning:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username= chaitanyabhujbal912006-afk&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true"
     width="100%"
   />
 </p>
