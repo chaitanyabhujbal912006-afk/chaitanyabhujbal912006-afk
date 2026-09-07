@@ -91,13 +91,13 @@ Currently Learning:
 | 🌐 **Navonmesh 2026** | Official Technical Fest Website |
 | 🌐 **NiveshLoop** | Stockmarket learning platform with simulation |
 
+
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyabhujbal912006-afk&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyabhujbal912006-afk&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
