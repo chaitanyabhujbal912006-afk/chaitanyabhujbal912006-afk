@@ -94,14 +94,10 @@ Currently Learning:
 
 ---
 
-## 📈 Contribution Graph
+# 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&theme=tokyo-night"
-    alt="Chaitanya Bhujbal's GitHub Contribution Graph"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyabhujbal912006-afk&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
