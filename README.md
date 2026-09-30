@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Chaitanya%20Bhujbal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20System%20Designer&descAlignY=58" alt="Chaitanya Bhujbal - Backend Developer, Cloud Engineer, System Designer"/>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Cloud+%26+DevOps+Enthusiast;System+Design+Learner;Building+Scalable+Healthcare+Solutions;Always+Learning+Something+New" alt="Typing animation"/>
 </p>
